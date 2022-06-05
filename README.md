@@ -1,16 +1,7 @@
-# listview_app
+# Local Dating app 
 
-A new Flutter project.
+This is a personal project: users can only match with people inside a bar/club.
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+At the moment this is a work in progress. Only made the main page with the lists of bars available (I have a small database) and implemented location service and a custom button for the users to see if they're eligible to enter the bar (if they are less than 100 meters away from the club). Then, the people that entered would have a Tinder-like experience.
